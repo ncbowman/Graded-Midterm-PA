@@ -1,0 +1,89 @@
+ts,track_name,artist_name,ms_played,type,genre,respondent_id,device
+2026-01-01 22:14,Espresso,Sabrina Carpenter,175000,music,Pop,mis_001,iPhone
+2026-02-14 22:18,Anti-Hero,Taylor Swift,214000,Music,pop,mis_008,Android
+2026-03-27 08:02,Anti-Hero,taylor swift,3000,MUSIC,POP,mis_015,MacBook
+2026-04-13 19:40,Anti-Hero,TAYLOR SWIFT,214000,music,pOP,mis_022,Windows Laptop
+2026-05-26 23:10,Good Luck Babe,Chappell Roan,192000,MuSiC,Pop ,mis_029,iPad
+2026-06-12 15:30,Espresso,Sabrina Carpenter,175000,music , Pop,mis_036,Desktop
+2026-07-25 21:05,Cruel Summer,Taylor Swift,178000,music,pop,mis_043,Smart Speaker
+2026-08-11 23:55,Kill Bill,SZA,153000,Music,R&B,mis_050,iPhone
+2026-09-24 12:30,Kill Bill,sza,153000,MUSIC,r&b,mis_057,Android
+2026-09-24 12:30,Kill Bill,sza,153000,MUSIC,r&b,mis_057,Android
+2026-01-23 02:10,Snooze,SZA,-4000,MuSiC,r&b,mis_011,Windows Laptop
+2026-02-09 01:17,Snooze,SZA,34000000,music ,R&B ,mis_018,iPad
+2026-03-22 20:40,Good Days,SZA,279000,music, R&B,mis_025,Desktop
+2026-04-08 18:20,Not Like Us,Kendrick Lamar,185000,Music,hip-hop,mis_032,Smart Speaker
+2026-05-21 09:15,Humble,Kendrick Lamar,177000,MUSIC,Hip-Hop,mis_039,iPhone
+2026-06-07 22:50,Not Like Us,kendrick lamar,185000,music,hip-hop,mis_046,Android
+2026-07-20 16:45,First Person Shooter,Drake,247000,MuSiC,HIP-HOP,mis_053,MacBook
+2026-08-06 17:30,Mr Brightside,The Killers,222000,music ,rOCK,mis_060,Windows Laptop
+2026-09-19 05:45,Mr Brightside,The Killers,5000,music,Rock ,mis_007,iPad
+2026-10-05 20:00,Bohemian Rhapsody,Queen,354000,Music, Rock,mis_014,Desktop
+2026-01-18 23:30,Everlong,Foo Fighters,250000,MUSIC,rock,mis_021,Smart Speaker
+2026-02-04 07:30,Fast Car,Luke Combs,,music,Country,mis_028,iPhone
+2026-03-17 13:40,Tennessee Whiskey,Chris Stapleton,293000,MuSiC,country,mis_035,Android
+2026-04-03 19:15,Fast Car,Luke Combs,241000,music ,COUNTRY,mis_042,MacBook
+2026-05-16 23:22,The Less I Know The Better,Tame Impala,216000,music,iNDIE,mis_049,Windows Laptop
+2026-06-02 21:11,Sofia,Clairo,189000,Music,Indie ,mis_056,iPad
+2026-07-15 00:30,Ivy,Frank Ocean,249000,MUSIC, Indie,mis_003,Desktop
+2026-08-01 01:50,One More Time,Daft Punk,320000,music,electronic,mis_010,Smart Speaker
+2026-09-14 22:00,Strobe,Deadmau5,634000,MuSiC,Electronic,mis_017,iPhone
+2026-10-27 16:20,Opus,Eric Prydz,540000,music ,electronic,mis_024,Android
+2026-01-13 20:15,So What,Miles Davis,544000,music,JAZZ,mis_031,MacBook
+2026-02-26 14:05,Take Five,Dave Brubeck,324000,Music,jAZZ,mis_038,Windows Laptop
+2026-03-12 06:30,Clair De Lune,Claude Debussy,300000,MUSIC,Classical ,mis_045,iPad
+2026-04-25 23:45,Nocturne Op 9 No 2,Frederic Chopin,270000,music, Classical,mis_052,Desktop
+2026-05-11 15:00,Dynamite,BTS,199000,MuSiC,k-pop,mis_059,Smart Speaker
+2026-06-24 18:30,How Sweet,NewJeans,215000,music ,K-Pop,mis_006,iPhone
+2026-07-10 21:40,Dynamite,bts,199000,music,k-pop,mis_013,Android
+2026-08-23 22:25,Titi Me Pregunto,Bad Bunny,243000,Music,LATIN,mis_020,MacBook
+2026-09-09 09:00,Despacito,Luis Fonsi,9000,MUSIC,lATIN,mis_027,Windows Laptop
+2026-10-22 20:50,Despacito,Luis Fonsi,229000,music,Latin ,mis_034,iPad
+2026-01-08 03:30,Master Of Puppets,Metallica,515000,MuSiC, Metal,mis_041,Desktop
+2026-02-21 22:10,Chop Suey,System Of A Down,210000,music ,metal,mis_048,Smart Speaker
+2026-03-07 07:45,Holocene,Bon Iver,337000,music,Folk,mis_055,iPhone
+2026-04-20 00:15,The Night We Met,Lord Huron,208000,Music,folk,mis_002,Android
+2026-05-06 07:00,The Daily,The New York Times,1680000,PODCAST,NEWS,mis_009,MacBook
+2026-06-19 06:30,Crime Junkie,audiochuck,2700000,podcast,tRUE cRIME,mis_016,Windows Laptop
+2026-07-05 21:10,Billie Jean,Michael Jackson,294000,MuSiC,Pop ,mis_023,iPad
+2026-08-18 08:20,Take On Me,a-ha,225000,music , Pop,mis_030,Desktop
+2026-09-04 22:45,Sweet Child O Mine,Guns N Roses,356000,music,rock,mis_037,Smart Speaker
+2026-10-17 19:30,Every Breath You Take,The Police,253000,Music,Rock,mis_044,iPhone
+2026-01-03 23:05,Like A Prayer,Madonna,341000,MUSIC,pop,mis_051,Android
+2026-02-16 18:15,Dont Stop Believin,Journey,250000,music,ROCK,mis_058,MacBook
+2026-03-02 07:50,Africa,Toto,295000,MuSiC,rOCK,mis_005,Windows Laptop
+2026-04-15 20:40,Purple Rain,Prince,520000,music ,Pop ,mis_012,iPad
+2026-05-01 12:05,Girls Just Want To Have Fun,Cyndi Lauper,239000,music, Pop,mis_019,Desktop
+2026-06-14 02:30,Billie Jean,michael jackson,4000,Music,pop,mis_026,Smart Speaker
+2026-07-27 16:00,Smells Like Teen Spirit,Nirvana,301000,MUSIC,Rock,mis_033,iPhone
+2026-08-13 11:20,Wonderwall,Oasis,258000,music,rock,mis_040,Android
+2026-09-26 23:40,Baby One More Time,Britney Spears,211000,MuSiC,POP,mis_047,MacBook
+2026-10-12 09:10,No Scrubs,TLC,214000,music ,r&b,mis_054,Windows Laptop
+2026-01-25 22:25,Juicy,The Notorious B.I.G.,258000,music,Hip-Hop ,mis_001,iPad
+2026-02-11 01:05,California Love,2Pac,286000,Music, Hip-Hop,mis_008,Desktop
+2026-03-24 15:45,Creep,Radiohead,238000,MUSIC,rock,mis_015,Smart Speaker
+2026-04-10 20:10,Enter Sandman,Metallica,331000,music,Metal,mis_022,iPhone
+2026-05-23 18:50,Vogue,Madonna,319000,MuSiC,pop,mis_029,Android
+2026-06-09 07:15,Wonderwall,oasis,258000,music ,ROCK,mis_036,MacBook
+2026-07-22 19:55,Hey Ya,OutKast,235000,music,hIP-hOP,mis_043,Windows Laptop
+2026-08-08 14:30,Crazy In Love,Beyonce,236000,Music,Pop ,mis_050,iPad
+2026-09-21 21:15,In Da Club,50 Cent,193000,MUSIC, Hip-Hop,mis_057,Desktop
+2026-10-07 00:40,Seven Nation Army,The White Stripes,232000,music,rock,mis_004,Smart Speaker
+2026-01-20 17:05,Umbrella,Rihanna,263000,MuSiC,Pop,mis_011,iPhone
+2026-02-06 23:20,Lose Yourself,Eminem,326000,music ,hip-hop,mis_018,Android
+2026-03-19 08:35,Clocks,Coldplay,307000,music,ROCK,mis_025,MacBook
+2026-04-05 22:00,Toxic,Britney Spears,198000,Music,pOP,mis_032,Windows Laptop
+2026-05-18 13:25,Hips Dont Lie,Shakira,218000,MUSIC,Latin ,mis_039,iPad
+2026-06-04 20:30,Mr Brightside,the killers,,music, Rock,mis_046,Desktop
+2026-07-17 20:45,Rolling In The Deep,Adele,228000,MuSiC,pop,mis_053,Smart Speaker
+2026-08-03 23:55,Uptown Funk,Mark Ronson,270000,music ,Pop,mis_060,iPhone
+2026-09-16 07:40,Blinding Lights,The Weeknd,200000,music,r&b,mis_007,Android
+2026-10-02 18:20,Shape Of You,Ed Sheeran,234000,Music,POP,mis_014,MacBook
+2026-01-15 21:50,Old Town Road,Lil Nas X,157000,MUSIC,hIP-hOP,mis_021,Windows Laptop
+2026-02-01 16:10,Bad Guy,Billie Eilish,194000,music,Pop ,mis_028,iPad
+2026-03-14 22:35,Get Lucky,Daft Punk,369000,MuSiC, Electronic,mis_035,Desktop
+2026-04-27 09:05,Royals,Lorde,190000,music ,pop,mis_042,Smart Speaker
+2026-05-13 23:15,Thrift Shop,Macklemore,235000,music,Hip-Hop,mis_049,iPhone
+2026-06-26 02:05,Blinding Lights,The Weeknd,8000,Music,r&b,mis_056,Android
+2026-07-12 19:30,Uptown Funk,Mark Ronson,270000,MUSIC,POP,mis_003,MacBook
+2026-08-25 06:45,SmartLess,Wondery,2400000,podcast,cOMEDY,mis_010,Windows Laptop
